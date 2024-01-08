@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Rajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajnish952&show_icons=true&theme=radical)
 <!--
 **rajnish952/rajnish952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
